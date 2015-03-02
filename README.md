@@ -10,9 +10,11 @@ This lab has four sections: an podcast, a video, and two sets of instructions.
 
 ## Radiolab Podcast: Words that Change the World
 
-Susan Schaller believes that the best idea she ever had in her life had to do with an isolated young man she met one day at a community college. He was 27-years-old at the time, and though he had been born deaf, no one had ever taught him to sign. He had lived his entire life without language--until Susan found a way to reach out to him. 
+##### About
 
-Charles Fernyhough doesn't think that very young children think--at least not in a way he'd recognize as thinking. Charles explains what he means by walking us through an experiment in a white room. And Elizabeth Spelke weighs in with research from her baby lab--which suggests a child's brain begins as a series of islands, until it can find the right words and phrases to bridge the gaps. 
+> Susan Schaller believes that the best idea she ever had in her life had to do with an isolated young man she met one day at a community college. He was 27-years-old at the time, and though he had been born deaf, no one had ever taught him to sign. He had lived his entire life without language--until Susan found a way to reach out to him. 
+
+> Charles Fernyhough doesn't think that very young children think--at least not in a way he'd recognize as thinking. Charles explains what he means by walking us through an experiment in a white room. And Elizabeth Spelke weighs in with research from her baby lab--which suggests a child's brain begins as a series of islands, until it can find the right words and phrases to bridge the gaps. 
 
 Listen to [the podcast here](http://www.radiolab.org/story/91728-words-that-change-the-world/). You don't have to listen to James Shapiro's Shakespeare section, although it's also amazing so feel free to.
 
