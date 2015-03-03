@@ -1,0 +1,43 @@
+Write a blog post reflecting on the content and questions below:
+
+How does language affect the brain?
+    from the podcast, I realized that words and language change our human brain. It makes us smarter rather than
+    any other living species on this planet by our ability to speak, read and write.
+    It develops our brain to a different level.
+
+If language changes what our brain is capable of thinking, how might learning to program change how we think?
+    Definitely, programming is basically learning and dealing with computer language. If learning and speaking a human
+    language could change our mind and capability, programming and writing would changes the way we think even more.
+
+Have you noticed how you think changing? If you have, is it for better or worse?
+    I think since i start writing code and thinking programmatically, I develop a different mindset.
+    I start to think and consider more things that I used to not matter, I spend more time thinking and making decision,
+    Those are great improvement.
+
+
+How might programming language choice change how you think? Could it affect what problems you can
+solve and how you approach solving problems?
+    We are currently learning and being more comfortable with modern programming language compared to
+    programmers who used to learn more computer native language such as C and C++. And I think there is
+    different between what we learn and what we know now to what programmers who has learn basic C language
+    do. I do not have a specific example, but i can see how people has different way thinking, behavior
+    customs from  their language and nativity.
+
+Could your editor affect your ability to think/program?
+  Yes, first of all I will say is about the result. We now can see/have the different result
+  from what people used to do when they write on newspaper and books where theres more to struggle
+  to produce the material so people can have and read it. Now we are into better editor, computer for example,
+  where everyone can write their thoughts and share it easily. Anyone could be as much expressive as they want.
+
+  But, as a response to the video in the blog post, I start to realize that we are all also being imprisoned by our
+  editor or medium to express our thoughts, where it is static and limited at some point for example, it is has to be in
+  certain format of text, sound, or picture to be presented by our current medium.
+
+How might the medium in which you program affect your programs and thoughts?
+  The simpler and easier to use medium could simplify our process of expressing our thoughts, so that
+  we have more ability, efficiency and power to think of our programs and thoughts instead of
+ dealing with the medium itself.
+
+When you are finished writing, remember to proof-read for spelling mistakes and
+grammatical errors and add your post to lib/blog_post.txt. Save, then run your testing suite
+and make sure it passes. Finally, add, commit, and submit a pull request, just as you would a typical lab.
